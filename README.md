@@ -18,7 +18,7 @@
   
 | 🎯 **Current Role** | 🎓 **Education** | 🌍 **Location** | 📈 **Impact** |
 |:---:|:---:|:---:|:---:|
-| AI & Data Science for Biotech | PhD @ Loughborough University | England, UK 🇬🇧 | 100+ Students Trained |
+| Researcher (PhD) | PhD (ongoing) @ Loughborough University | England, UK 🇬🇧 | 100+ Students Trained |
 
 </div>
 
@@ -79,13 +79,12 @@ mindmap
     AI/ML Expert
       Machine Learning
       Deep Learning
-      Computer Vision
+      Data vizulization
       LLMs
     Biotech Specialist
       Bioinformatics
       Genomics
       Systems Biology
-      Drug Discovery
     Educator
       100+ Students
       >94% Satisfaction
@@ -93,7 +92,7 @@ mindmap
       Technical Trainer
     Researcher
       PhD Student
-      Published Work
+      Critical thinker
       Innovation Leader
       Problem Solver
 ```
@@ -111,9 +110,9 @@ mindmap
 <td width="50%">
 
 ### 🔬 Research & Innovation
-- **PhD Research**: AI applications in chemical/biological systems
-- **Pipeline Development**: Reproducible bioinformatics workflows
-- **Model Development**: ML for genomics and healthcare data
+- **PhD Research**: AI applications in chemical/biological systems with bioinformatics focus
+- **Pipeline Development**: Reproducible bioinformatics workflows with bash and python
+- **Model Development**: ML for genomics and metabolomics
 - **Systems Biology**: Boolean models for cancer cell behavior
 
 </td>
@@ -195,7 +194,7 @@ mindmap
 </div>
 
 ### 🌟 Notable Accomplishments
-- 🎓 **UKRI PhD Scholarship** - Loughborough University
+- 🎓 **UKRI & Industry collab PhD Scholarship** - Loughborough University
 - 👨‍🏫 **100+ Students Trained** - Data Science & AI (>94% satisfaction rate)
 - 🏆 **Bio-Inspired Design Winner** - Summer fest'16, India
 - 🧬 **Chem-a-Thon Winner** - Chemical Hackathon, India
@@ -236,11 +235,11 @@ mindmap
 ## 🎯 What I'm Up To
 
 - 🔭 **Currently working on**: AI-driven biological system optimization for my PhD
-- 🌱 **Learning**: Advanced deep learning for protein structure prediction
-- 👯 **Collaborating on**: Open-source bioinformatics tools and educational content
-- 🤔 **Looking for help with**: Scaling ML models for healthcare applications
-- 💬 **Ask me about**: AI/ML, Bioinformatics, Data Science, Python, Research methodology
-- 📫 **Reach me at**: tamoghnadas.12@gmail.com
+- 🌱 **Learning**: Advanced deep learning for protein structure prediction and Machine learning in computational biology
+- 👯 **Collaborating on**: Open-source bioinformatics tools and educational content on AI in bioinformatics 
+- 🤔 **Looking for help with**: Scaling ML models for healthcare applications, food and nutrition
+- 💬 **Ask me about**: AI/ML, Bioinformatics, Data Science, Python, Research methodology, content development and teaching
+- 📫 **Reach me at**: tamoghnadas.12@outlook.com
 - ⚡ **Fun fact**: I've taught students from 120+ countries and can debug both Python code and biological pathways! 🧬🐍
 
 ---
@@ -252,7 +251,7 @@ mindmap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamoghnadas12)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamoghnadas.12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tamoghna12)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Tamoghna12.github.io)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tamoghna12.github.io/bench2bash.github.io)
 
 </div>
 
