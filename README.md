@@ -208,6 +208,8 @@ mindmap
 <div align="center">
 
 [![bench2bash-starter](https://github-readme-stats.vercel.app/api/pin/?username=Tamoghna12&repo=bench2bash-starter&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF)](https://github.com/Tamoghna12/bench2bash-starter)
+[![obsidian-ai-assistant](https://github-readme-stats.vercel.app/api/pin/?username=Tamoghna12&repo=obsidian-ai-assistant&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF)](https://github.com/Tamoghna12/obsidian-ai-assistant)
+
 
 </div>
 
