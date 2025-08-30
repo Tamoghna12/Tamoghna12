@@ -207,7 +207,7 @@ mindmap
 
 <div align="center">
 
-[![bench2bash-starter](https://github-readme-stats.vercel.app/api/pin/?username=Tamoghna12&repo=bench2bash-starter&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF)](https://github.com/Tamoghna12/bench2bash-starter)
+[![bench2bash.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Tamoghna12&repo=bench2bash.github.io&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF)](https://github.com/Tamoghna12/bench2bash.github.io)
 [![obsidian-ai-assistant](https://github-readme-stats.vercel.app/api/pin/?username=Tamoghna12&repo=obsidian-ai-assistant&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF)](https://github.com/Tamoghna12/obsidian-ai-assistant)
 
 
